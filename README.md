@@ -8,7 +8,7 @@
 - SpringBoot
 
 
-## 配置
+## Configuration
 
 ```
 # DB Configuration
