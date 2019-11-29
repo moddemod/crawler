@@ -3,6 +3,7 @@
 
 - maven
 - WebMagic
+    - http://webmagic.io/
 - MySQL
 - SpringBoot
 
@@ -42,4 +43,7 @@ CREATE TABLE `job_info` (
 
 ```
 
-![image](https://github.com/moddemod/images/blob/master/show_crawler.png)
+## example
+
+
+![image](https://github.com/moddemod/images/blob/master/show_crawler.png 400x300)
